@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoraReceiver", "LoraReceiver\LoraReceiver.csproj", "{BF265084-7AE2-4EC5-8434-0E439969E973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoraSender", "..\LoraSender\LoraSender.csproj", "{62BE7067-A9AA-49A7-AA1E-40D826DD5337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoraReceiver2", "..\LoraReceiver2\LoraReceiver2.csproj", "{4F916BED-F8B6-42DE-B214-39C42F841E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4F916BED-F8B6-42DE-B214-39C42F841E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F916BED-F8B6-42DE-B214-39C42F841E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F916BED-F8B6-42DE-B214-39C42F841E0E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4F916BED-F8B6-42DE-B214-39C42F841E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F916BED-F8B6-42DE-B214-39C42F841E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F916BED-F8B6-42DE-B214-39C42F841E0E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

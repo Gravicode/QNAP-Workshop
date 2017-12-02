@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LORA", "LORA", "{6458C783-6323-42AA-B483-24952EF1692D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoraReceiver", "LoraReceiver\LoraReceiver\LoraReceiver.csproj", "{BF265084-7AE2-4EC5-8434-0E439969E973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoraSender", "LoraSender\LoraSender.csproj", "{62BE7067-A9AA-49A7-AA1E-40D826DD5337}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XBEE", "XBEE", "{852C41E3-F750-47AF-A6D8-89E6713E1C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XbeeSender", "XbeeSender\XbeeSender.csproj", "{EEE47B20-CC27-4333-B61F-FC7725E0DC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XbeeReceiver", "XbeeReceiver\XbeeReceiver.csproj", "{0F8C0EB8-BA30-49B8-B258-5EA17105196E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SImulateData", "SImulateData\SImulateData.csproj", "{EF148B46-3040-4748-BCEE-F6FD36F2A24F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF265084-7AE2-4EC5-8434-0E439969E973}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EEE47B20-CC27-4333-B61F-FC7725E0DC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE47B20-CC27-4333-B61F-FC7725E0DC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE47B20-CC27-4333-B61F-FC7725E0DC38}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EEE47B20-CC27-4333-B61F-FC7725E0DC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE47B20-CC27-4333-B61F-FC7725E0DC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE47B20-CC27-4333-B61F-FC7725E0DC38}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0F8C0EB8-BA30-49B8-B258-5EA17105196E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8C0EB8-BA30-49B8-B258-5EA17105196E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8C0EB8-BA30-49B8-B258-5EA17105196E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0F8C0EB8-BA30-49B8-B258-5EA17105196E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8C0EB8-BA30-49B8-B258-5EA17105196E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8C0EB8-BA30-49B8-B258-5EA17105196E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EF148B46-3040-4748-BCEE-F6FD36F2A24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF148B46-3040-4748-BCEE-F6FD36F2A24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF148B46-3040-4748-BCEE-F6FD36F2A24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF148B46-3040-4748-BCEE-F6FD36F2A24F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF265084-7AE2-4EC5-8434-0E439969E973} = {6458C783-6323-42AA-B483-24952EF1692D}
+		{62BE7067-A9AA-49A7-AA1E-40D826DD5337} = {6458C783-6323-42AA-B483-24952EF1692D}
+		{EEE47B20-CC27-4333-B61F-FC7725E0DC38} = {852C41E3-F750-47AF-A6D8-89E6713E1C63}
+		{0F8C0EB8-BA30-49B8-B258-5EA17105196E} = {852C41E3-F750-47AF-A6D8-89E6713E1C63}
+		{EF148B46-3040-4748-BCEE-F6FD36F2A24F} = {6458C783-6323-42AA-B483-24952EF1692D}
+	EndGlobalSection
+EndGlobal

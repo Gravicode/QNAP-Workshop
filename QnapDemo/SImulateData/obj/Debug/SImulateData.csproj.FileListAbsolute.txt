@@ -1,0 +1,10 @@
+c:\jobs\qnap\QnapDemo\SImulateData\bin\Debug\SImulateData.exe.config
+c:\jobs\qnap\QnapDemo\SImulateData\bin\Debug\SImulateData.exe
+c:\jobs\qnap\QnapDemo\SImulateData\bin\Debug\SImulateData.pdb
+c:\jobs\qnap\QnapDemo\SImulateData\bin\Debug\M2Mqtt.Net.dll
+c:\jobs\qnap\QnapDemo\SImulateData\bin\Debug\M2Mqtt.Net.pdb
+c:\jobs\qnap\QnapDemo\SImulateData\obj\Debug\SImulateData.csprojResolveAssemblyReference.cache
+c:\jobs\qnap\QnapDemo\SImulateData\obj\Debug\SImulateData.exe
+c:\jobs\qnap\QnapDemo\SImulateData\obj\Debug\SImulateData.pdb
+c:\jobs\qnap\QnapDemo\SImulateData\bin\Debug\Json.dll
+c:\jobs\qnap\QnapDemo\SImulateData\bin\Debug\Json.pdb
